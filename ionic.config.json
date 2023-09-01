@@ -1,0 +1,7 @@
+{
+  "name": "scroll-animate-101",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
